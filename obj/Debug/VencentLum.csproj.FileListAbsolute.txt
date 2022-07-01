@@ -1,0 +1,17 @@
+D:\wpf窗口\VencentLum\bin\Debug\VencentLum.exe.config
+D:\wpf窗口\VencentLum\bin\Debug\VencentLum.exe
+D:\wpf窗口\VencentLum\bin\Debug\VencentLum.pdb
+D:\wpf窗口\VencentLum\obj\Debug\VencentLum.csproj.AssemblyReference.cache
+D:\wpf窗口\VencentLum\obj\Debug\MainWindow.g.cs
+D:\wpf窗口\VencentLum\obj\Debug\App.g.cs
+D:\wpf窗口\VencentLum\obj\Debug\VencentLum_MarkupCompile.cache
+D:\wpf窗口\VencentLum\obj\Debug\VencentLum_MarkupCompile.lref
+D:\wpf窗口\VencentLum\obj\Debug\MainWindow.baml
+D:\wpf窗口\VencentLum\obj\Debug\VencentLum.g.resources
+D:\wpf窗口\VencentLum\obj\Debug\VencentLum.Properties.Resources.resources
+D:\wpf窗口\VencentLum\obj\Debug\VencentLum.csproj.GenerateResource.cache
+D:\wpf窗口\VencentLum\obj\Debug\VencentLum.csproj.CoreCompileInputs.cache
+D:\wpf窗口\VencentLum\obj\Debug\VencentLum.exe
+D:\wpf窗口\VencentLum\obj\Debug\VencentLum.pdb
+D:\wpf窗口\VencentLum\obj\Debug\Player.g.cs
+D:\wpf窗口\VencentLum\obj\Debug\Player.baml
